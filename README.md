@@ -1,7 +1,8 @@
 # Gerador de Números Aleatórios Personalizado
 
 ## Introdução
-Este código JavaScript implementa um gerador de números aleatórios personalizado, permitindo ao usuário definir a quantidade de números a serem sorteados, o intervalo mínimo e máximo, e garantindo que os números sorteados sejam únicos.
+
+Este repositório apresenta o código JavaScript desenvolvido para um gerador de números aleatórios personalizado. O projeto foi implementado sobre uma base já existente, que incluía a estrutura HTML e o design CSS da aplicação. O foco principal deste trabalho foi criar a lógica JavaScript necessária  permitindo ao usuário definir a quantidade de números a serem sorteados, o intervalo mínimo e máximo, e garantindo que os números sorteados sejam únicos.
 
 ## Funcionalidades Principais
 - Entrada do Usuário: O código captura os valores inseridos pelo usuário nos campos "Quantidade", "Do número" e "Até o número" para personalizar a geração dos números aleatórios.
